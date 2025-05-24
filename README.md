@@ -25,3 +25,6 @@ Neste arquivo:
   > - Subtrai(10, 4)
   > - Módulo(5)
   > - Multiplica(3, 7)
+
+### Resultado
+![image](https://github.com/user-attachments/assets/a8e8d12d-aecc-4108-837c-d09642a8332a)
